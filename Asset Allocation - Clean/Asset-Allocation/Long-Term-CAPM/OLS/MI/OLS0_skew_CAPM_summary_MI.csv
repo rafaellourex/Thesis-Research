@@ -1,0 +1,26 @@
+,coef,std err,t,P>|t|,[0.025,0.975],,Dep. Variable:,CAPM,  R-squared:         ,0.002
+const,-0.0102,0.005,-2.26,0.024,-0.019,-0.001,,Model:,OLS,  Adj. R-squared:    ,0.002
+numberOfShares,1.83E-05,3.09E-06,5.896,0,1.22E-05,2.43E-05,,Method:,Least Squares,  F-statistic:       ,6.637
+costOfRevenue_TTM,-1.46E-06,1.05E-06,-1.387,0.165,-3.51E-06,6.02E-07,,Date:,"Fri, 19 May 2023",  Prob (F-statistic):,6.51E-22
+QoQ_costAndExpenses,0.0001,0.002,0.09,0.929,-0.003,0.003,,Time:,10:24:05,  Log-Likelihood:    ,22033
+incomeBeforeTaxRatio,-5.15E-07,3.29E-07,-1.565,0.118,-1.16E-06,1.30E-07,,No. Observations:,72538,  AIC:               ,-4.40E+04
+goodwillAndIntangibleAssets,-5.61E-06,1.04E-06,-5.411,0,-7.65E-06,-3.58E-06,,Df Residuals:,72513,  BIC:               ,-4.38E+04
+earnings,1.14E-05,3.03E-06,3.755,0,5.44E-06,1.73E-05,,Df Model:,24,                     , 
+accountsPayables,-1.12E-06,2.28E-06,-0.489,0.625,-5.59E-06,3.36E-06,,Covariance Type:,nonrobust,                     , 
+fixedAssetTurnover,-7.98E-05,0.001,-0.104,0.917,-0.002,0.001,,,,,
+excessReturn_84,-0.005,0.006,-0.848,0.397,-0.017,0.007,,,,,
+netIncome_bin,0.0024,0.002,1.214,0.225,-0.001,0.006,,,,,
+ebtPerEbit,0.0009,0.001,0.956,0.339,-0.001,0.003,,,,,
+netIncome_cf,-4.91E-06,2.46E-06,-1.996,0.046,-9.72E-06,-8.96E-08,,,,,
+YoY_netIncome,-4.62E-06,3.43E-06,-1.347,0.178,-1.14E-05,2.11E-06,,,,,
+totalOtherIncomeExpensesNet,-3.43E-15,1.98E-14,-0.173,0.862,-4.22E-14,3.54E-14,,,,,
+Volatility_42,0.0379,0.013,2.941,0.003,0.013,0.063,,,,,
+operatingIncome,-2.35E-08,2.56E-06,-0.009,0.993,-5.04E-06,4.99E-06,,,,,
+dividendPayoutRatio,-0.005,0.001,-3.85,0,-0.008,-0.002,,,,,
+cashAtEndOfPeriod,-3.07E-06,1.31E-06,-2.348,0.019,-5.64E-06,-5.08E-07,,,,,
+depreciationAndAmortization,3.14E-06,3.22E-06,0.977,0.328,-3.16E-06,9.45E-06,,,,,
+cashFlowCoverageRatios,0.0034,0.001,4.2,0,0.002,0.005,,,,,
+purchasesOfInvestments,-3.14E-15,2.14E-14,-0.146,0.884,-4.52E-14,3.89E-14,,,,,
+assetTurnover,0.0096,0.002,4.095,0,0.005,0.014,,,,,
+eps,8.85E-05,0,0.262,0.793,-0.001,0.001,,,,,
+commonStock,-9.81E-07,1.32E-06,-0.743,0.458,-3.57E-06,1.61E-06,,,,,

@@ -1,0 +1,10 @@
+,0,1,2,3
+0,Dep. Variable:,CAPM,  R-squared:         ,   0.018
+1,Model:,OLS,  Adj. R-squared:    ,   0.017
+2,Method:,Least Squares,  F-statistic:       ,   20.57
+3,Date:,"Fri, 19 May 2023",  Prob (F-statistic):,3.08e-227
+4,Time:,14:44:49,  Log-Likelihood:    ,  22596.
+5,No. Observations:, 72538,  AIC:               ,-4.506e+04
+6,Df Residuals:, 72474,  BIC:               ,-4.448e+04
+7,Df Model:,    63,                     , 
+8,Covariance Type:,nonrobust,                     , 

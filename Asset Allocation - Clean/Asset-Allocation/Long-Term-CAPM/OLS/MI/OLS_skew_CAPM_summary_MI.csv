@@ -1,0 +1,22 @@
+Column1,coef,std err,t,P>|t|,[0.025,0.975]
+const,-0.007300,0.004000,-1.764,0.078,-0.015,0.001
+numberOfShares,0.000016,0.000003,5.752,0,1.04E-05,2.11E-05
+goodwillAndIntangibleAssets,-0.000006,0.000001,-5.829,0,-7.51E-06,-3.73E-06
+earnings,0.000012,0.000002,5.193,0,7.21E-06,1.59E-05
+netIncome_cf,-0.000006,0.000002,-2.608,0.009,-1.02E-05,-1.45E-06
+Volatility_42,0.039200,0.013000,3.087,0.002,0.014,0.064
+dividendPayoutRatio,-0.005000,0.001000,-3.864,0,-0.008,-0.002
+cashAtEndOfPeriod,-0.000003,0.000001,-2.878,0.004,-5.37E-06,-1.02E-06
+cashFlowCoverageRatios,0.003400,0.001000,4.227,0,0.002,0.005
+assetTurnover,0.008900,0.002000,4.476,0,0.005,0.013
+,,,,,,
+,,,,,,
+Dep. Variable:,CAPM,  R-squared:         ,0.002,,,
+Model:,OLS,  Adj. R-squared:    ,0.002,,,
+Method:,Least Squares,  F-statistic:       ,16.51,,,
+Date:,"Fri, 19 May 2023",  Prob (F-statistic):,1.89E-27,,,
+Time:,10:24:05,  Log-Likelihood:    ,22028,,,
+No. Observations:,72538,  AIC:               ,-4.40E+04,,,
+Df Residuals:,72528,  BIC:               ,-4.39E+04,,,
+Df Model:,9,                     , ,,,
+Covariance Type:,nonrobust,                     , ,,,

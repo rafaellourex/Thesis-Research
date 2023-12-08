@@ -1,0 +1,13 @@
+,coef,std err,t,P>|t|,[0.025,0.975],,Dep. Variable:,CAPM,  R-squared:         ,0.001
+const,0.0037,0,7.732,0,0.003,0.005,,Model:,OLS,  Adj. R-squared:    ,0.001
+Basic_Materials,3.82E-05,0.001,0.039,0.969,-0.002,0.002,,Method:,Least Squares,  F-statistic:       ,9.009
+Communication_Services,-0.0011,0.001,-1.186,0.235,-0.003,0.001,,Date:,"Fri, 19 May 2023",  Prob (F-statistic):,2.78E-16
+Consumer_Cyclical,-0.0014,0.001,-1.957,0.05,-0.003,1.89E-06,,Time:,16:57:02,  Log-Likelihood:    ,1.19E+05
+Consumer_Defensive,-0.0021,0.001,-2.267,0.023,-0.004,0,,No. Observations:,72538,  AIC:               ,-2.38E+05
+Energy,0.0019,0.001,1.825,0.068,0,0.004,,Df Residuals:,72526,  BIC:               ,-2.38E+05
+Financial_Services,-0.0034,0.001,-5.752,0,-0.005,-0.002,,Df Model:,11,                     , 
+Healthcare,0.0015,0.001,2.064,0.039,7.52E-05,0.003,,Covariance Type:,nonrobust,                     , 
+Industrials,-0.0023,0.001,-3.429,0.001,-0.004,-0.001,,,,,
+Real_Estate,-0.0029,0.001,-2.885,0.004,-0.005,-0.001,,,,,
+Unkown,-0.0037,0.003,-1.072,0.284,-0.01,0.003,,,,,
+Utilities,-0.0037,0.001,-3.466,0.001,-0.006,-0.002,,,,,
